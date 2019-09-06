@@ -1,0 +1,8 @@
+PWD C:/Users/zhangyansheng/Desktop/CODE/awesome-latex-cv-zh-cn
+INPUT d:/texlive/2019/texmf.cnf
+INPUT d:/texlive/2019/texmf-dist/web2c/texmf.cnf
+INPUT d:/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT section_publications.tex
+OUTPUT section_publications.log
+INPUT d:/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT d:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm

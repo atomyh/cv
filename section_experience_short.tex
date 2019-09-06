@@ -1,0 +1,77 @@
+% Awesome CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/huajh/huajh-awesome-latex-cv
+%
+% Author:
+% Junhao Hua
+
+
+%Section: Work Experience at the top
+\sectionTitle{实习/项目经历}{\faCode}
+
+\begin{experiences}
+
+ \experience
+    {2019年4月至今}   {多触点归因模型}{ Multi-touch attribution}{京东广告数据部}
+     {}{
+                      \begin{itemize}
+
+                        \item 代码重构。将串行业务逻辑拆分为并行结构 \textbf{->}业务时间缩短30\%，减小代码的耦合度，提高代码复用性；
+                        \item 改进特征类型转换方式。将原来使用Python进行Parquet到TFRecord转换，改进为使用Spark进行分布式转换\textbf{->}将转换时间缩短60\%；
+                        \item 增加曝光模型。原项目主要针对用户的点击进行广告位归因，增加了基于广告位曝光的模型；
+
+                      \end{itemize}
+                    }
+                    {biRNN, Spark, Tensorflow-Keras, Scala,Python}
+  \emptySeparator
+  \experience
+    { } {广告主预算分配}{Budget Allocation}{京东广告数据部}
+    {}    {
+                      \begin{itemize}
+                        \item 根据原始技术文档编写初始版本的模型系统，并进行模拟测试;
+                        \item 改进初始模型的ROI（投资回报率）预测的线性回归模型。使用Xgboost算法进行该子模型的改进\textbf{->}将\emph{陈天奇}开发的Xgboost-Spark编译，以免部署的方式运行在Spark3.0集群上,使得模型的\emph{rmse}下降了351。 \textbf{并进一步将ROI的预测从天级别提升到小时级别};
+                        \item 使用Maven将Xgboost算法依赖到JD的依赖库中，并进行高层的封装和框架的设计。简化了组内复用Xgboost4Spark算法的成本，并在此基础上，先后封装了GDBT、LinearRegression等常用算法;
+                        \item 改进初始模型的CAP（广告位花销能力）预测。使用内部AutoML框架将原有的基于规则的CAP预测升级为稳定可靠的模型； \textbf{正在进行CAP实时预测工作};
+                        \item 针对SparkML对可视化支持比较差的问题，结合ClickHouse和DarshBoard搭建了模型结果可视化的Pipline；
+                      \end{itemize}
+                    }
+                    {XGBoost,Word2Vector,LinearRegression,SparkML,SparkSQL,SparkStreaming,AutoML}
+  \emptySeparator
+
+  \experience
+  {2017年10月} {风机叶片开裂预警}{CCF工业大数据竞赛}{实验室}
+  {}    {
+				  	\begin{itemize}
+				  		\item  负责完成数据清洗工作，包括缺失值处理、规范化操作以及对数据不平衡问题的处理；
+				  		\item  负责特征的选择工作，通过分析各个特征间的相关系数、方差、信息系数等来选择最终特征；
+                        \item  负责部分模型的构建工作，包括编写LR算法完成模型的构建，通过网格搜索来进行模型的调参；
+				  	\end{itemize}
+				  }
+				  {特征工程, 逻辑回归,网格搜索}
+  \emptySeparator
+  \experience
+  {2018年9月} {工业控制网络异常行为识别}{国家电网}{实验室项目}
+  {}    {
+    \begin{itemize}
+      \item 负责构建网络流量数据包获取，包括网络数据包深度解析，主要通过交错时间窗的方式统计流量数据包五元组；
+      \item  负责构建语义特征， 使用 Skip-gram 将数据包转化为向量表示、 并通过 PV-DM 和 PV-DBOW 结合的方式建
+  立行为特征向量；
+  \item 负责模型的构建工作， 包括编写 OCSVM 算法完成模型构建， 通过模型调参选择最优参数；
+    \end{itemize}
+  }
+  {Skip-gram, OCSVM}
+  \emptySeparator
+  \experience
+  {2014年10月} {基于Android智能家居房间控制系统}{山东建筑大学}{山东建筑大学机器人与人工智能实验室}
+  {}    {
+				  	\begin{itemize}
+				  		\item 参与了整个系统的设计；
+				  		\item 负责智能调配中心的设计与开发工作；
+                        \item 负责\textbf{基于WIFI的室内定位算法的设计和开发工作}；
+				  	\end{itemize}
+				  }
+				  {软件开发, 数据库, JAVA, Android}
+
+ \emptySeparator
+\end{experiences}

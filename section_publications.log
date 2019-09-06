@@ -1,0 +1,906 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.17)  6 SEP 2019 12:34
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**section_publications.tex
+(./section_publications.tex
+LaTeX2e <2018-12-01>
+./section_publications.tex:11: Undefined control sequence.
+l.11 \sectionTitle
+                  {专利和论文}{\faLeanpub}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./section_publications.tex:11: Package inputenc Error: Unicode character 专 (U+4E13)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \sectionTitle{专
+                      利和论文}{\faLeanpub}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:11: Package inputenc Error: Unicode character 利 (U+5229)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \sectionTitle{专利
+                         和论文}{\faLeanpub}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:11: Package inputenc Error: Unicode character 和 (U+548C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \sectionTitle{专利和
+                            论文}{\faLeanpub}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:11: Package inputenc Error: Unicode character 论 (U+8BBA)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \sectionTitle{专利和论
+                               文}{\faLeanpub}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:11: Package inputenc Error: Unicode character 文 (U+6587)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \sectionTitle{专利和论文
+                                  }{\faLeanpub}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+./section_publications.tex:11: Undefined control sequence.
+l.11 \sectionTitle{专利和论文}{\faLeanpub
+                                              }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./section_publications.tex:13: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{itemize}
+                    
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--13
+[] 
+ []
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 杨 (U+6768)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 	\item \textbf{杨华}
+                           , 李喜旺,张艳升, ``基于卷积神经网络...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 华 (U+534E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 	\item \textbf{杨华}
+                           , 李喜旺,张艳升, ``基于卷积神经网络...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 李 (U+674E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 	\item \textbf{杨华}, 李
+                                喜旺,张艳升, ``基于卷积神经网络...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 喜 (U+559C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 	\item \textbf{杨华}, 李喜
+                                   旺,张艳升, ``基于卷积神经网络...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 旺 (U+65FA)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 	\item \textbf{杨华}, 李喜旺
+                                      ,张艳升, ``基于卷积神经网络...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 张 (U+5F20)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 	\item \textbf{杨华}, 李喜旺,张
+                                          艳升, ``基于卷积神经网络...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 艳 (U+8273)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 	\item \textbf{杨华}, 李喜旺,张艳
+                                             升, ``基于卷积神经网络...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 升 (U+5347)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 	\item \textbf{杨华}, 李喜旺,张艳升
+                                                , ``基于卷积神经网络...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 基 (U+57FA)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...textbf{杨华}, 李喜旺,张艳升, ``基
+                                                  于卷积神经网络的�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 于 (U+4E8E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...tbf{杨华}, 李喜旺,张艳升, ``基于
+                                                  卷积神经网络的工�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 卷 (U+5377)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...{杨华}, 李喜旺,张艳升, ``基于卷
+                                                  积神经网络的工控�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 积 (U+79EF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...�华}, 李喜旺,张艳升, ``基于卷积
+                                                  神经网络的工控网�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 神 (U+795E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...�}, 李喜旺,张艳升, ``基于卷积神
+                                                  经网络的工控网络�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 经 (U+7ECF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ... 李喜旺,张艳升, ``基于卷积神经
+                                                  网络的工控网络异�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 网 (U+7F51)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...�喜旺,张艳升, ``基于卷积神经网
+                                                  络的工控网络异常�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 络 (U+7EDC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...�旺,张艳升, ``基于卷积神经网络
+                                                  的工控网络异常流�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...�,张艳升, ``基于卷积神经网络的
+                                                  工控网络异常流量�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 工 (U+5DE5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...��艳升, ``基于卷积神经网络的工
+                                                  控网络异常流量识�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 控 (U+63A7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...��升, ``基于卷积神经网络的工控
+                                                  网络异常流量识别''\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 网 (U+7F51)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...��, ``基于卷积神经网络的工控网
+                                                  络异常流量识别''\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 络 (U+7EDC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ... ``基于卷积神经网络的工控网络
+                                                  异常流量识别''\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 异 (U+5F02)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...基于卷积神经网络的工控网络异
+                                                  常流量识别''\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 常 (U+5E38)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...于卷积神经网络的工控网络异常
+                                                  流量识别''\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 流 (U+6D41)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...卷积神经网络的工控网络异常流
+                                                  量识别''\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 量 (U+91CF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...积神经网络的工控网络异常流量
+                                                  识别''\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 识 (U+8BC6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...神经网络的工控网络异常流量识
+                                                  别''\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:14: Package inputenc Error: Unicode character 别 (U+522B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...经网络的工控网络异常流量识别
+                                                  ''\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ' in font nullfont!
+./section_publications.tex:15: Undefined control sequence.
+l.15 	 { \footnotesize
+                       \tags{卷积神经网络, 104规约}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_publications.tex:15: Undefined control sequence.
+l.15 	 { \footnotesize \tags
+                            {卷积神经网络, 104规约}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./section_publications.tex:15: Package inputenc Error: Unicode character 卷 (U+5377)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 	 { \footnotesize \tags{卷
+                                积神经网络, 104规约}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:15: Package inputenc Error: Unicode character 积 (U+79EF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 	 { \footnotesize \tags{卷积
+                                   神经网络, 104规约}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:15: Package inputenc Error: Unicode character 神 (U+795E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 	 { \footnotesize \tags{卷积神
+                                      经网络, 104规约}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:15: Package inputenc Error: Unicode character 经 (U+7ECF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 	 { \footnotesize \tags{卷积神经
+                                         网络, 104规约}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:15: Package inputenc Error: Unicode character 网 (U+7F51)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 	 { \footnotesize \tags{卷积神经网
+                                            络, 104规约}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:15: Package inputenc Error: Unicode character 络 (U+7EDC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 	 { \footnotesize \tags{卷积神经网络
+                                               , 104规约}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+
+./section_publications.tex:15: Package inputenc Error: Unicode character 规 (U+89C4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...tnotesize \tags{卷积神经网络, 104规
+                                                  约}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:15: Package inputenc Error: Unicode character 约 (U+7EA6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...tesize \tags{卷积神经网络, 104规约
+                                                  }}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ' in font nullfont!
+
+./section_publications.tex:17: Package inputenc Error: Unicode character （ (U+FF08)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...uipment Based on Improved Faster-rcnn''（
+                                                  在投） \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:17: Package inputenc Error: Unicode character 在 (U+5728)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...ment Based on Improved Faster-rcnn''（在
+                                                  投） \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:17: Package inputenc Error: Unicode character 投 (U+6295)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...t Based on Improved Faster-rcnn''（在投
+                                                  ） \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:17: Package inputenc Error: Unicode character ） (U+FF09)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...ased on Improved Faster-rcnn''（在投）
+                                                   \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+./section_publications.tex:18: Undefined control sequence.
+l.18 	 { \footnotesize
+                       \tags{faster-rcnn,线性插值,注意力机制}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_publications.tex:18: Undefined control sequence.
+l.18 	 { \footnotesize \tags
+                            {faster-rcnn,线性插值,注意力机制}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+
+./section_publications.tex:18: Package inputenc Error: Unicode character 线 (U+7EBF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 	 { \footnotesize \tags{faster-rcnn,线
+                                            性插值,注意力机制}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:18: Package inputenc Error: Unicode character 性 (U+6027)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 	 { \footnotesize \tags{faster-rcnn,线性
+                                               插值,注意力机制}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:18: Package inputenc Error: Unicode character 插 (U+63D2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 	 { \footnotesize \tags{faster-rcnn,线性插
+                                                  值,注意力机制}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:18: Package inputenc Error: Unicode character 值 (U+503C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ootnotesize \tags{faster-rcnn,线性插值
+                                                  ,注意力机制}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+./section_publications.tex:18: Package inputenc Error: Unicode character 注 (U+6CE8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...otesize \tags{faster-rcnn,线性插值,注
+                                                  意力机制}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:18: Package inputenc Error: Unicode character 意 (U+610F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...size \tags{faster-rcnn,线性插值,注意
+                                                  力机制}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:18: Package inputenc Error: Unicode character 力 (U+529B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...e \tags{faster-rcnn,线性插值,注意力
+                                                  机制}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:18: Package inputenc Error: Unicode character 机 (U+673A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...tags{faster-rcnn,线性插值,注意力机
+                                                  制}}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./section_publications.tex:18: Package inputenc Error: Unicode character 制 (U+5236)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...s{faster-rcnn,线性插值,注意力机制
+                                                  }}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (20.97903pt too wide) in paragraph at lines 16--21
+\OT1/cmr/bx/n/10 Hua
+ []
+
+
+Overfull \hbox (25.46512pt too wide) in paragraph at lines 16--21
+\OT1/cmr/bx/n/10 Yang
+ []
+
+)
+! Emergency stop.
+<*> section_publications.tex
+                            
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 55 strings out of 492609
+ 497 string characters out of 6132818
+ 57749 words of memory out of 5000000
+ 4075 multiletter control sequences out of 15000+600000
+ 3948 words of font info for 15 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,1n,12p,151b,136s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,97 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xetex 2019.8.17)  6 SEP 2019 12:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**awesome-cv-cn.tex
+(./awesome-cv-cn.tex
+! Undefined control sequence.
+l.13 \documentclass
+                   [localFont]{awesome-source-cv} %alternative
+? 
+! Undefined control sequence.
+l.15 \usepackage
+                {zh_cn-adobefonts_external} % Simplified Chinese Support usi...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.15 \usepackage{zh_
+                    cn-adobefonts_external} % Simplified Chinese Support usi...
+
+? 
+! Extra }, or forgotten $.
+l.15 \usepackage{zh_cn-adobefonts_external}
+                                            % Simplified Chinese Support usi...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.17 
+     
+? 
+! Undefined control sequence.
+l.20 \name
+          {}{杨华}
+? 
+Missing character: There is no 杨 in font cmr10!
+Missing character: There is no 华 in font cmr10!
+! Undefined control sequence.
+l.22 \tagline
+             {目标：算法工程师}
+? 
+Missing character: There is no 目 in font cmr10!
+Missing character: There is no 标 in font cmr10!
+Missing character: There is no ： in font cmr10!
+Missing character: There is no 算 in font cmr10!
+Missing character: There is no 法 in font cmr10!
+Missing character: There is no 工 in font cmr10!
+Missing character: There is no 程 in font cmr10!
+Missing character: There is no 师 in font cmr10!
+! Undefined control sequence.
+l.23 \photo
+           {2.5cm}{photo.png}
+? 
+! Undefined control sequence.
+l.24 \socialinfo
+                {
+? 
+! Undefined control sequence.
+l.25 ^^I\homepage
+                 {https://blog.csdn.net/stranger\_man}
+? 
+! Undefined control sequence.
+l.26 ^^I\smartphone
+                   {(+86) 17610075871}
+? 
+! Undefined control sequence.
+l.27 ^^I\email
+              {17610075871@163.com} \\
+? 
+! Argument of \\ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.30 }
+      
+? 
+Runaway argument?
+ \address {北京市怀柔区中国科学院大学}\\ \infos {1994年\ETC.
+! Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.30 }
+      
+? 
+! Undefined control sequence.
+l.32 \begin
+           {document}
+? 
